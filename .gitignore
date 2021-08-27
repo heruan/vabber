@@ -1,0 +1,16 @@
+target/
+.idea/
+.settings
+.project
+.classpath
+.DS_Store
+node_modules
+webpack.generated.js
+.npmrc
+frontend/
+package.json
+pnpm-lock.yaml
+pnpmfile.js
+tsconfig.json
+types.d.ts
+webpack.config.js
